@@ -1,0 +1,2 @@
+# WalternateRedoubtConfig
+Redoubt config files
